@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+/bower_components
+
+#Other Crap
+/BotFrameworkEmulator-Console
+/first-setup
+/index.js
